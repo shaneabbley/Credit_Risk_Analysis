@@ -19,7 +19,7 @@ We are attempting to predict credit risk using six different machine learning al
 ![RandomForestSampling](https://github.com/shaneabbley/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/RandomForest.png)
 ##### This figure contains the code for our Random Forest analysis.
 * Accuracy = 0.683
-![EasyEnsemblerSampling](https://github.com/shaneabbley/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/EasyAdaBoost.png)
+![EasyEnsemblerSampling](https://github.com/shaneabbley/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/EasyEnsembler.png)
 ##### This figure contains the code for our Easy Ensemble analysis.
 
 ### Analysis
