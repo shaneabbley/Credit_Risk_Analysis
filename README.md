@@ -5,5 +5,6 @@ We are attempting to predict credit risk using six different machine learning al
 
 ### Results
 ![RandomOversampling](https://github.com/shaneabbley/Credit_Risk_Analysis/blob/main/Module-17-Challenge-Resources/RandomOversampling.png)
+##### This is the code showing our random oversampling data
 
 ### Analysis
