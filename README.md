@@ -47,3 +47,7 @@ We are attempting to predict credit risk using six different machine learning al
 <br />
 
 ### Analysis
+
+The above data clearly points to one fact, that is, none of the above models predict the credit card risk to a degree deemed satisfactory. This is because none of the above models correctly identify bad credit risk to a satisfactory degree. With some significant improvements to the recall, we could start to see some progress.
+
+
